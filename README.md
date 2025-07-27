@@ -6,7 +6,7 @@
 
 ## 🚀 Live Project
 This project was created and deployed using Claude AI.  
-🔗 [View Project on Claude]( https://claude.ai/public/artifacts/c0569c1c-e219-4487-a1d6-a0e1d4415ca6](https://claude.ai/public/artifacts/c0569c1c-e219-4487-a1d6-a0e1d4415ca6)](https://claude.ai/public/artifacts/c0569c1c-e219-4487-a1d6-a0e1d4415ca6 )  
+🔗 [View Project on Claude]( https://claude.ai/public/artifacts/c0569c1c-e219-4487-a1d6-a0e1d4415ca6  )  
 
 ---
 
